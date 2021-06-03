@@ -1,0 +1,7 @@
+/venv/
+/.vscode/
+*.py
+*.rq
+/.ipynb_checkpoints/
+rxno.owl
+RXNO-Reaction Types.ipynb
