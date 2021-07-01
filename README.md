@@ -19,4 +19,5 @@ Using Python3 and Jupyter notebooks
 
 ## Further ideas:
 * store structured Chemotion reactions data into a triples format using [Apache Jena Fuseki](https://github.com/NFDI4Chem/Fuseki-Box)
-  * perform SPARQL queries on data - in order to showcase the possibilities of querying a Chemotion Knowledge Graphs (triples) - where questions such as: *What are the reactions that have C7H5ClO as starting material & a density > 1.0ml.* (and associate results with other Knowledge Graphs  such as Wikidata or PubChem ) 
+  * perform SPARQL queries on data - in order to showcase the possibilities of querying a Chemotion Knowledge Graphs (triples) - whereby questions such as: *What are the reactions that have C7H5ClO as starting material & a density > 1.0ml.* can be answered.
+  * and associate results with other Knowledge Graphs  such as Wikidata or PubChem
