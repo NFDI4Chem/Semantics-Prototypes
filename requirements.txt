@@ -1,5 +1,6 @@
 rdflib
 jupyter
+notebook
 requests
 SPARQLWrapper
 pyyaml
