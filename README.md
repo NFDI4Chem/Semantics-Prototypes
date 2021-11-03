@@ -15,6 +15,7 @@ Using [Terminology Service](https://terminology.nfdi4chem.de/ts/index) and SPARQ
 `jupyter-notebook`
 
 ## Notebooks - Prototypes
+* [SPARQL Queries to ChEBI in triple store](Chebi_SPARQL.ipynb)
 * [Navigate the DFG-Fachsystematik-Ontology via Ontology Look-up Service](DFGFO-OLS.ipynb)
 * [Chemistry Ontologies Explorer](ontologies_explorer.ipynb) Displays the Network of borrowed terms for Chemistry ontologies 
 * [RXNO *Reaction Types* Tree via Ontology Look Service (OLS) API](RXNO-Reactions-OLSAPI.ipynb) - run notebook in [Binder](https://mybinder.org/v2/gh/NFDI4Chem/Sematics-in-Chemotion-Prototypes/HEAD?filepath=RXNO-Reactions-OLSAPI.ipynb)
